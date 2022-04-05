@@ -1,6 +1,3 @@
 Coldplay
-<<<<<<< HEAD
 Slipknot
-=======
 Guns N' Roses
->>>>>>> acaaedba84fdf3497223d3f9d073a34fe3ec9519
